@@ -42,9 +42,9 @@ Copy each folder to its matching location in your project.
 
 ### Step 2 — Set up .env database
 ```env
-DB_DATABASE=darwaza
+DB_DATABASE=DBNAME
 DB_USERNAME=root
-DB_PASSWORD=your_password
+DB_PASSWORD=password
 ```
 
 ### Step 3 — Run migrations
